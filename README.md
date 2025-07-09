@@ -1,1 +1,1 @@
-# ark-server
+# Ark Survival Ascended Server Setup
